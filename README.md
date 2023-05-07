@@ -1,4 +1,4 @@
-#Pár hasznos infó a projektemről:D
+# Pár hasznos infó a projektemről:D
 
 Szabad időmben édesapámnak segítek a vállalkozásában, aki használtcikk kereskedő. Az utóbbi néhány hónapban én is elkezdtem retró bútorokkal foglalkozni, és e köré építettem a weboldalt! Szabadon választott téma. 
 
