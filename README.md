@@ -3,6 +3,7 @@
 Szabad időmben édesapámnak segítek a vállalkozásában, aki használtcikk kereskedő. Az utóbbi néhány hónapban én is elkezdtem retró bútorokkal foglalkozni, és e köré építettem a weboldalt! Szabadon választott téma. 
 
 Miután regisztárlsz, és a belépsz, azt követően elérhető lesz a Main és az Inspiration fül. Ha nem szeretnél regisztrálni, akkor az email: test@gmail.com jelszó: testpw
+
 Ha bármi kérdésed van, vagy elakadtál a belépés vagy bármi folyamán, ezen az email címet megtalálsz: pusztainz@gmail.com
 
 
