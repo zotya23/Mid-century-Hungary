@@ -1,4 +1,12 @@
-# Week04
+#Pár hasznos infó a projektemről:D
+
+Szabad időmben édesapámnak segítek a vállalkozásában, aki használtcikk kereskedő. Az utóbbi néhány hónapban én is elkezdtem retró bútorokkal foglalkozni, és e köré építettem a weboldalt! Szabadon választott téma. 
+
+Miután regisztárlsz, és a belépsz, azt követően elérhető lesz a Main és az Inspiration fül. 
+Ha bármi kérdésed van, vagy elakadtál a belépés vagy bármi folyamán, ezen az email címet megtalálsz: pusztainz@gmail.com
+
+
+# Mid-century Hungary
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
